@@ -4,6 +4,8 @@ Designed to make a note of Coding Problems which include Data Structure and Algo
 Use [Jdoodle.com](https://www.jdoodle.com/online-java-compiler) to run code Online.
 
 ## Linked List
-* Reverse Linked List Recursively and Iteratively
-* Add Two Numbers using Linked List
-* Cycle in Linked List using slow and fast
+* [Reverse Linked List-Recursively and Iteratively](https://github.com/viragjainVJ/data-structure-programming/blob/master/LinkedList/ReverseLinkedList.java)
+* [Add Two Numbers using Linked List](https://github.com/viragjainVJ/data-structure-programming/blob/master/LinkedList/AddTwoNumbersLL.java)
+* [Cycle in Linked List using slow and fast](https://github.com/viragjainVJ/data-structure-programming/blob/master/LinkedList/CycleInLL.java)
+## Tree
+* [Binary Tree-Insertion and Inorder Traversal](https://github.com/viragjainVJ/data-structure-programming/blob/master/Tree/BinaryTree.java)
