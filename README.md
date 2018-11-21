@@ -11,6 +11,6 @@ Use [Jdoodle.com](https://www.jdoodle.com/online-java-compiler) to run code Onli
 * [Binary Tree-Insertion and Inorder Traversal](https://github.com/viragjainVJ/data-structure-programming/blob/master/Tree/BinaryTree.java)
 * [Binary Tree Traversal-InOrder, PreOrder and PostOrder](https://github.com/viragjainVJ/data-structure-programming/blob/master/Tree/BinaryTreeTraversal.java)
 ## Strings
-* [Find all distinct palindromic sub-strings of a given string](https://github.com/viragjainVJ/data-structure-programming/tree/master/Strings/FindPlaindromeInStrings)
+* [Find all distinct palindromic sub-strings of a given string](https://github.com/viragjainVJ/data-structure-programming/tree/master/Strings/FindPlaindromeInStrings.java)
 ## Puzzles
 * [Find the number abcd * 4 = dcba](https://github.com/viragjainVJ/data-structure-programming/tree/master/Puzzles/FindNumberOnMultplicationReturnSame.md)
